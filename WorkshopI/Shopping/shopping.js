@@ -10,5 +10,5 @@ if (totalSpendMoney <= inputArray[0]) {
     console.log(`You got this, ${(inputArray[0] - totalSpendMoney).toFixed(2)} money left.`);
 }
 else {
-    console.log(`Not enough money, you need ${(totalSpendMoney - inputArray[0].toFixed(2))} more.`);
+    console.log(`Not enough money, you need ${(totalSpendMoney - inputArray[0]).toFixed(2)} more.`);
 }
