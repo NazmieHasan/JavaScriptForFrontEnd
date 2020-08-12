@@ -75,7 +75,7 @@ function renderElementsInHTML() {
 
     let imageTag=$("<img>");
     imageTag
-        .attr('id','creatures-image')
+        .attr('id','creature-image')
         .attr('src','images/archangel.jpg')
         .attr('alt','archangel');
         imageTag.appendTo(".center-after-click");
