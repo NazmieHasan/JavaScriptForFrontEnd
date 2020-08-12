@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08793b10-55a2-40bf-a43e-ee203915d806" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../CSSPreprocessors/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CSSPreprocessors/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="08793b10-55a2-40bf-a43e-ee203915d806" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +46,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/JSExam1" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
@@ -61,6 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1597164939851</updated>
       <workItem from="1597164941155" duration="939000" />
+      <workItem from="1597212509889" duration="184000" />
     </task>
     <servers />
   </component>
@@ -77,5 +76,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="117" key="FileChooserDialogImpl" timestamp="1597212692324">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1597212692324" />
   </component>
 </project>
