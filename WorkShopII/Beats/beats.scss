@@ -1,0 +1,72 @@
+@import "https://fonts.googleapis.com/css?family=Open+Sans:400,900";
+body{
+    font-family: "Open-Sans", sans-serif;
+    color: darkgray;
+}
+    ul {
+        display: flex;
+        justify-content: space-around;
+        li {
+            list-style-type: none;
+            text-transform: uppercase;
+            a{
+                text-decoration: none;
+                font-weight: bold;
+                color: darkgray;
+            }
+        }
+    }
+    section{
+        padding: 30px;
+        display: flex;
+        article{
+            h2{
+                text-align: center;
+                font-size: 54px;
+                font-weight: 200;
+                text-transform: uppercase;
+            }
+            button{
+                background: red;
+                color: white;
+                text-transform: uppercase;
+                border-radius: 15px;
+                padding: 8px 14px;
+                border: none;
+            }
+            width: 48%;
+            padding: 10px;
+            padding-left: 20px;
+            img{
+                width: 100%;
+            }
+        }
+    }
+    span{
+        color: black;
+        font-weight: bold;
+    }
+    .price{
+        font-size: 28px;
+        margin-right: 20px;
+    }
+    .powerbeats{
+        padding: 30px;
+    }
+    .powerbeats * {
+        margin-top: 60px;
+    }
+    .info-text{
+        margin-top: 0;
+        margin-left: 150px;
+        text-transform: uppercase;
+    }
+    .powerbeats h2{
+        margin-bottom: 0;
+    }
+    button:hover{
+        cursor: pointer;
+    }
+    li:hover{
+        border-bottom: 1px solid gray;
+    }
